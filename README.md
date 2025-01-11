@@ -1,7 +1,3 @@
-Here's a GitHub README page for you:
-
----
-
 # Pradeep Sankar
 
 ## 📍 Chennai, India | 📧 pradeepjs2000@gmail.com | 📞 +91 9566061375
